@@ -1,0 +1,8 @@
+name: PlaceRevertDropFix
+version: '${project.version}'
+main: io.github.kuohsuanlo.placerevertdropfix.PlaceRevertDropFix
+api-version: '1.20'
+folia-supported: true
+author: kuohsuanlo
+website: https://github.com/kuohsuanlo/PlaceRevertDropFix
+description: When a protection plugin cancels an item-on-block use, Paper restores the blocks but leaves the drops that were spawned meanwhile. This plugin removes those drops too.

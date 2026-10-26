@@ -1,0 +1,4 @@
+# Print one console line every time drops are rolled back.
+# A rollback only happens when some plugin cancelled the placement, so these lines
+# are also a cheap way to spot people trying the duplication trick.
+log-rollbacks: true
