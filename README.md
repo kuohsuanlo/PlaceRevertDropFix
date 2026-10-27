@@ -1,3 +1,5 @@
+**Download:** [PlaceRevertDropFix-1.0.0.jar](https://github.com/kuohsuanlo/PlaceRevertDropFix/releases/download/v1.0.0/PlaceRevertDropFix-1.0.0.jar) (Paper / Folia, sha256 `885fc43c368d938b58e65aa9af69a23ac22847c38e44f55f656118a22c8f0821`)
+
 # PlaceRevertDropFix
 
 A drop-in Paper / Folia plugin that stops an item-duplication bug present in every Paper-based server:
